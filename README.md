@@ -1,0 +1,1 @@
+A Exploratory Data Analysis regarding Twitter posts including a Logistic Regression Model that predicts the user sentiment of a certain post. Such as a sentiment of a post being positive, negative, or neutral.
